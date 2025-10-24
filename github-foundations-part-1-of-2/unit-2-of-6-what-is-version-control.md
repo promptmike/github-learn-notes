@@ -22,7 +22,7 @@ A VCS tracks the history of changes to a set of files, preferably with distribut
 To understand Git you need to remember Git terminology
 Git tracks the entire history of changes to a set of files and stores it on both client and server
 
-The **Working Tree** is the directory stucture that contains the project
+The **Working Tree** is the directory structure that contains the project
 Git tracks the entire history of a working tree stored both client-side and server-side
 
 The **Repository (repo)** is the project top-level domain, either at the top of a working tree or a treeless **bare repo** often used for sharing and backups
