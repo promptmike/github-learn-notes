@@ -183,11 +183,9 @@ GitHub is an AI-powered collaboration and productivity platform hosting both pub
 3. Make your changes, then select *Save Page*
 
 **Delete a wiki page**
-{
-git clone <insert-repo-url-here>
-rm <insert-path-to-file-here>
-git push
-}
+`git clone <insert-repo-url-here>`
+`rm <insert-path-to-file-here>`
+`git push`
 
 GitHub is an AI-powered platform with tools and GUIs for managing Git repos, gists and wiki pages for documentation
 
