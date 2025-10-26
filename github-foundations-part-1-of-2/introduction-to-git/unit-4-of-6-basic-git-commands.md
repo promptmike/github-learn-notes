@@ -1,5 +1,8 @@
 # Basic Git commands
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 Git takes snapshots of your file system and remembers changes
 Git works by using snapshots to track changes
 

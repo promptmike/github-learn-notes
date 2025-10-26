@@ -1,5 +1,8 @@
 # What is GitHub?
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We will study an overview of GitHub, repositories, gists and wikis
 GitHub is an extensive platform that offers more than just hosting repos
 

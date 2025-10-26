@@ -1,5 +1,8 @@
 # GitHub Mobile and GitHub Desktop
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 There are multiple ways to access your GitHub account
 GitHub can be accessed from the browser, from GitHub Desktop or from GitHub Mobile
 

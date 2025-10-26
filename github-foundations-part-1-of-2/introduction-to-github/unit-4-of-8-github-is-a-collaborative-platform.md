@@ -1,5 +1,8 @@
 # GitHub is a collaborative platform
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 GitHub helps you collaborate on a repo with pull requests
 GitHub is a collaborative platform for software developers
 

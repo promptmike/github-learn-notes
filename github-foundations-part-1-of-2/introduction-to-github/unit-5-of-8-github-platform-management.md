@@ -1,5 +1,8 @@
 # GitHub platform management
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 In this unit we will deal with notifications, subscriptions and pages
 GitHub has tools to help you track and publicise projects
 

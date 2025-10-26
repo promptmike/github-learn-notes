@@ -1,5 +1,8 @@
 # GitHub billing
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 Personal accounts and most organization accounts are billed separately, but enterprise accounts can consolidate billing for organizations they own
 GitHub offers consolidated billing for large enterprises
 

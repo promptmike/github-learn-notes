@@ -1,5 +1,8 @@
 # What is Version Control?
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 A Version Control System (VCS) is a set of software used to track changes to a collection of files
 A VCS helps many people collaborate on a complex project
 

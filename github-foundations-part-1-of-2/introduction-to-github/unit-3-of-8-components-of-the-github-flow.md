@@ -1,5 +1,8 @@
 # Components of the GitHub flow
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We will review branches, commits and pull requests as well as the difference between GitHub flow and Git flow
 Git flow is different to GitHub flow
 

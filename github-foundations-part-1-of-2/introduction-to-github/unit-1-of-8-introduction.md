@@ -1,5 +1,8 @@
 # Introduction
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 GitHub is an AI-powered developer platform that hosts Git repos
 Use GitHub to collaborate on secure code
 

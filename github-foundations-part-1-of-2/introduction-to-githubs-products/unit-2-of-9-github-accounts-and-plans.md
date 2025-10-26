@@ -1,5 +1,8 @@
 # GitHub accounts and plans
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We will learn about GitHub accounts and plans
 GitHub has multiple account and plan options
 

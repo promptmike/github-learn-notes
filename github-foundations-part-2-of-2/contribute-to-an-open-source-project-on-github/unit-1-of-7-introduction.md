@@ -1,5 +1,8 @@
 # Introduction
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We can help open-source projects by contributing to the repo and conducting code reviews
 Open-source software relies on the community to develop and maintain it
 

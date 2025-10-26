@@ -1,5 +1,8 @@
 # License Usage Stats
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We will learn to manage GitHub Enterprise licenses for accounts and server instances
 GitHub Enterprise licenses can be tracked and managed by admins
 

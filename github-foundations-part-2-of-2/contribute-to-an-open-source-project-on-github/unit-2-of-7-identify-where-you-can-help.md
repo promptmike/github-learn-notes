@@ -1,5 +1,8 @@
 # Identify where you can help
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We will learn how to use issues and tags to contribute to open-source projects
 Finding open-source projects to contribute to is important for skill development
 

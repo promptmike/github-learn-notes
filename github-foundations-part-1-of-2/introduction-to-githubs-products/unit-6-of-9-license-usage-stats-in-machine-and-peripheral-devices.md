@@ -1,5 +1,8 @@
 # License Usage Stats in Machine and Peripheral Devices
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 Machine accounts and peripheral services can impact license usage and security
 GitHub allows use through machine and peripheral devices, which can incur costs
 
