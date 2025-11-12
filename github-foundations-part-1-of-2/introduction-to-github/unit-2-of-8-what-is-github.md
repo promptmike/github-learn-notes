@@ -78,7 +78,7 @@ A repository contains all of your project's files and the revision history of ea
 4. Choose visibility (Private/Public)
 5. Select *Create Repository*
 
-GitHub offers AI-powered tools for users to create public or private Git repos and collaborate on them securely with CI/CD and scalability
+>GitHub offers AI-powered tools for users to create public or private Git repos and collaborate on them securely with CI/CD and scalability
 
 ### How to clone a repository
 
@@ -91,7 +91,7 @@ GitHub offers AI-powered tools for users to create public or private Git repos a
 5. `git clone <insert-url-here>`
 6. `cd <insert-repo-name-here>`
 
-GitHub offers secure, AI-powered hosting of Git repos that you can collaborate on using GitHub's array of CI/CD and Security tooling, or clone and work on remotely
+>GitHub offers secure, AI-powered hosting of Git repos that you can collaborate on using GitHub's array of CI/CD and Security tooling, or clone and work on remotely
 
 ### How to add a file to your repository
 
@@ -112,7 +112,7 @@ GitHub offers secure, AI-powered hosting of Git repos that you can collaborate o
 10. Select a current branch or *Create a new branch* for your commit
 11. Select *Commit changes* or *Propose changes*
 
-GitHub provides an intuitive way to manage Git repos with GUIs for creating repos and commits using AI-powered tools and automated CI/CD and Security.
+>GitHub provides an intuitive way to manage Git repos with GUIs for creating repos and commits using AI-powered tools and automated CI/CD and Security.
 
 ### What are Gists?
 
@@ -190,7 +190,7 @@ If your repo is private, only people with read access will be able to see the wi
 `rm <insert-path-to-file-here>`
 `git push`
 
-GitHub is an AI-powered platform with tools and GUIs for managing Git repos, gists and wiki pages for documentation
+>GitHub is an AI-powered platform with tools and GUIs for managing Git repos, gists and wiki pages for documentation
 
 [Wiki Pages Documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)
 
@@ -204,7 +204,7 @@ Feature Previews give you early access to experimental features of GitHub so you
 2. Select *Feature preview*
 3. Toggle the features you want to try
 
-GitHub is a powerful CI/CD platform hosting Git repos, gists and wiki pages, offering AI, collaboration, productivity, security and scale tooling and listening to user feedback
+>GitHub is a powerful CI/CD platform hosting Git repos, gists and wiki pages, offering AI, collaboration, productivity, security and scale tooling and listening to user feedback
 
 ==Tip==
 GitHub frequently adds new experimental features for users to explore, so keep an eye on the Feature review to discover new tools and enhancements.
