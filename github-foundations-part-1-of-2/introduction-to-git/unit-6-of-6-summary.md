@@ -1,12 +1,12 @@
 # Summary
 
-> 📘 Note: These notes follow a two-line progressive summary method.  
+> 📘 Note: These notes follow a two-line progressive summary method.
 > The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
 
-We have learned what a VCS is, Git terminology, Git is *not* GitHub, how to configure Git and basic Git commands
+We have learned what a VCS is, Git terminology, Git is *not* GitHub, how to configure Git and basic Git commands |
 Git is a DVCS that saves changes in ordered snapshots called commits and GitHub is a web service that uses Git as its primary technology
 
-We can now use Git to collaborate with others
+We can now use Git to collaborate with others |
 As a DVCS, Git is excellent for collaborating with others by staging and committing changes locally to branches before adding them to origin
 
 ## Resources
