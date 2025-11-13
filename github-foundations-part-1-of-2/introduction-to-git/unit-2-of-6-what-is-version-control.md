@@ -62,7 +62,7 @@ The Git CLI works the same no matter what OS you use
 
 ## Git and GitHub
 
-Git is not the same as GitHub |
+Git is not the same as GitHub
 >Git provides distributed version control and is not the same as GitHub
 
 Git is a **Distributed Version Control System (DVCS)** for synchronising local branches with a remote repo
