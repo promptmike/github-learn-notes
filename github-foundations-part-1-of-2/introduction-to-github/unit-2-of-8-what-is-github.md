@@ -162,7 +162,7 @@ Gists are NEVER fully private, even if they are secret, so they should not be us
 
 To clone a gist: `git clone https://gist.github.com/<insert-gist-id-here>.git`
 
-GitHub offers a GUI with powerful tools and automation for working on hosted Git repos and also mini repos called gists that can be forked and cloned just like repos
+>GitHub offers a GUI with powerful tools and automation for working on hosted Git repos and also mini repos called gists that can be forked and cloned just like repos
 
 ### What are wikis?
 
