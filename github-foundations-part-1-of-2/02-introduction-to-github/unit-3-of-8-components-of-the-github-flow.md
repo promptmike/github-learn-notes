@@ -51,7 +51,7 @@ GitHub also allows draft pull requests before code is read for review
 >Git tracks files through DVCS, GitHub provides additional tools and GUIs and pull requests allow commits to be drafted, reviewed and discussed before merge
 
 When a pull request passes review, the source branch is merged into the base branch
-<GitHub provides tools and GUIs for managing Git repos, pull requests allow commits to be drafted, reviewed and discussed and merging branches applies changes to the base branch
+>GitHub provides tools and GUIs for managing Git repos, pull requests allow commits to be drafted, reviewed and discussed and merging branches applies changes to the base branch
 
 ![Pull Request](https://learn.microsoft.com/en-us/training/github/introduction-to-github/media/2-pull-request.png)
 
