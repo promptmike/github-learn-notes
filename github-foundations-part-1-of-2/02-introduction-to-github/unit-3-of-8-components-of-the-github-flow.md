@@ -98,7 +98,7 @@ Git flow is older than GitHub flow, and uses more structured branching appropria
 3. Bug fixes go in release, but major features wait for next release
 4. Release branch is merged to master when ready
 5. Release is also merged back to develop to keep in sync
-6. ILf a critical bug is found, create a hotfix from master, fix the bug, then merge to master and develop
+6. If a critical bug is found, create a hotfix from master, fix the bug, then merge to master and develop
 
 >Git flow is a very structured and stable system of branching and releases, while GitHub flow is simple and continuous
 
