@@ -83,11 +83,11 @@ Git flow is older than GitHub flow, and uses more structured branching appropria
 
 ## Git flow Branch Types
 
-**master** is the default branch with the production-ready code
-**develop** is where you work on the next release
-**feature** is for new features - branched from and merged back to develop
-**release** prepares a new production release from develop
-**hotfix** to quickly patch bugs - branched from master
+- **master** is the default branch with the production-ready code
+- **develop** is where you work on the next release
+- **feature** is for new features - branched from and merged back to develop
+- **release** prepares a new production release from develop
+- **hotfix** to quickly patch bugs - branched from master
 
 >GitHub flow is simple and suited to CI/CD, while Git flow designates specific branch types for each task and aims to deliver stable releases
 
