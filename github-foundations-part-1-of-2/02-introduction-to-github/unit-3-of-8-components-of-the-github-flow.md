@@ -111,4 +111,4 @@ Git flow is ideal for slow, structured release cycles with multiple versions, LT
 Git flow assumes merge commits for integrating branches. Using rebase or squash merges can interfere with its branch structure and history tracking.
 
 Many teams find GitHub flow faster and easier, but those who need more stucture and predictability may prefer Git flow
-Git flow is a tried and tested structure for predictable release schedules and LTS, while GitHub flow is a faster and easier system for unrestricted CI/CD
+>Git flow is a tried and tested structure for predictable release schedules and LTS, while GitHub flow is a faster and easier system for unrestricted CI/CD
