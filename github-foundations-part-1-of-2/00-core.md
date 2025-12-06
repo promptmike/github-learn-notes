@@ -79,4 +79,6 @@ Git flow assumes merge commits, so rebase or squash merges may interfere with br
 
 `mentions:<username>` to find where you were @mentioned
 
-*Watch* at top of repo page to configure repo notifications
+*Watch* at top of repo page to configure repo notification
+
+GHEC offers 99.9% uptime service agreement
