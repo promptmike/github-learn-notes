@@ -76,3 +76,7 @@ Git flow has 5 branch types:
 GitHub flow is simpler, with **feature** branches merged directly back to **main**
 
 Git flow assumes merge commits, so rebase or squash merges may interfere with branch structure and history tracking
+
+`mentions:<username>` to find where you were @mentioned
+
+*Watch* at top of repo page to configure repo notifications
