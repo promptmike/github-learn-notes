@@ -86,7 +86,7 @@ GitHub Pro offers support by email, expanded limits on Actions, Codespaces and P
 GitHub Team is for organizations who want more collaboration, security and workflow features than those in GitHub Free for Enterprise
 > GitHub offers both free and paid plans, and accounts for individuals, organizations and enterprises so you pay for the precise features you need
 
-GitHub Team offers expanded limites on Actions, Codespaces and Packages, advanced features and insights and enabling/disabling of Codespaces for cloud development
+GitHub Team offers expanded limits on Actions, Codespaces and Packages, advanced features and insights and enabling/disabling of Codespaces for cloud development
 > GitHub offers personal accounts for individuals, organization accounts and enterprise accounts to set policy, with free and paid plans for individuals and organizations
 
 ### GitHub Enterprise
