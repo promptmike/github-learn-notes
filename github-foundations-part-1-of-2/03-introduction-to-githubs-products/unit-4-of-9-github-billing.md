@@ -7,7 +7,7 @@ Personal accounts and most organization accounts are billed separately, but ente
 > GitHub offers consolidated billing for large enterprises
 
 Bills include fixed subscriptions to plans and products, plus usage-based billing for services that incur costs over time
-> GitHub offers plans, product subscriptions, usage-based billing for additional services and consolidation of billing for enterprise
+> GitHub offers plans, product subscriptions, and usage-based billing for additional services and consolidation of billing for enterprise
 
 **==Note==**
 Most plans include a set number of free usage minutes or storage. For example, GitHub Pro includes 3,000 free GitHub Actions minutes per month. You can manage overages by setting spending limits.
