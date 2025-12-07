@@ -4,10 +4,10 @@
 > The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
 
 We will learn to manage GitHub Enterprise licenses for accounts and server instances
-GitHub Enterprise licenses can be tracked and managed by admins
+> GitHub Enterprise licenses can be tracked and managed by admins
 
 There are several ways to track seat usage
-GitHub Enterprise is billed by seat usage which you can track
+> GitHub Enterprise is billed by seat usage which you can track
 
 **==Note==**
 For prepaid (subscription-based) plans, you see a set number of available licenses. For Pay-As-You-Go (PAYG) plans—the default for new Enterprise customers—there’s no concept of “available licenses.” Billing is based on actual usage (active seats), and you’re charged each month according to that usage.
@@ -32,7 +32,7 @@ For prepaid (subscription-based) plans, you see a set number of available licens
 }
 ```
 
-You can track license usage using the Admin Panel or the GraphQL API
+> You can track license usage using the Admin Panel or the GraphQL API
 
 ## Method 2: Find license usage across multiple organizations
 
@@ -58,7 +58,7 @@ You can track license usage using the Admin Panel or the GraphQL API
 }
 ```
 
-You can track license usage for a specific organization or multiple organizations from the GUI or GraphQL API
+> You can track license usage for a specific organization or multiple organizations from the GUI or GraphQL API
 
 ## Method 3: Find license usage for enterprise accounts
 
@@ -72,7 +72,7 @@ curl -H "Authorization: token YOUR-TOKEN" \
 "https://api.github.com/enterprises/YOUR-ENTERPRISE/license"
 ```
 
-You can track license usage for Enterprise Cloud using the GUI or GraphQL API, and Enterprise Server using the GUI or REST API
+> You can track license usage for Enterprise Cloud using the GUI or GraphQL API, and Enterprise Server using the GUI or REST API
 
 ## Method 4: Find license usage across multiple GitHub instances
 
@@ -84,9 +84,9 @@ You can track license usage for Enterprise Cloud using the GUI or GraphQL API, a
     ```
 3. Review details
 
-You can track license usage for GHEC using the GUI or GraphQL API, for GHES using the GUI or REST API and multiple server instances using Metrics API
+> You can track license usage for GHEC using the GUI or GraphQL API, for GHES using the GUI or REST API and multiple server instances using Metrics API
 
 ## Best practices for license usage management
 
 Automate monitoring with APIs, reclaim unused seats, enable usage-based billing and audit regularly
-GitHub Enterprise admins should monitor usage with GraphQL, REST and Metrics APIs, enable usage-based billing, audit monthly, reclaim unused seats and allocate resources effectively
+> GitHub Enterprise admins should monitor usage with GraphQL, REST and Metrics APIs, enable usage-based billing, audit monthly, reclaim unused seats and allocate resources effectively
