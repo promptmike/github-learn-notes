@@ -23,7 +23,7 @@ GitHub Actions is free for public repositories, but incurrs charges for private 
 ## Pricing and support options for organizations
 
 Organizations should choose GitHub Free for Organizations, GitHub Team or GitHub Enterprise depending on their usage and security needs
-> GitHub offers a range plans with CI/CD allowances, unlimited Actions in free repos and billable actions in private repos
+> GitHub offers a range of plans with CI/CD allowances, unlimited Actions in free repos and billable actions in private repos
 
 [GitHub Pricing](https://github.com/pricing)
 
