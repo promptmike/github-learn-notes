@@ -19,5 +19,5 @@ With GitHub mobile you can manage your account, notifications and issues, verify
 GitHub Desktop helps you streamline your workflow from Windows or MacOS
 > GitHub can be accessed from the browser, from GitHub Desktop for Windows or MacOS, or even from the GitHub Mobile app for Android and iOS
 
-With GitHub Desktop you can make can clone repositories, change commits interactively, check out branches and much more
+With GitHub Desktop you can clone repositories, change commits interactively, check out branches and much more
 > GitHub can be accessed from the browser, but GitHub Desktop offers many of the same features and even GitHub Mobile allows access to your GitHub account
