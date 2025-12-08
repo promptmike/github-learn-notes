@@ -31,7 +31,7 @@ Use self-hosted runners for high volume jobs, cache dependencies, reduce redunda
 
 ## Storage for GitHub Packages
 
-GitHub Packages stores artifacts, images and dependencies, billed by storage and tranfer
+GitHub Packages stores artifacts, images and dependencies, billed by storage and transfer
 > GitHub Actions is free for public repos, plans have limited free Actions, Actions are then billed by minute and runner, while packages are billed by storage and transfer
 
 ### Tracking Consumption
