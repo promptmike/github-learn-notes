@@ -4,7 +4,7 @@
 > The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
 
 We have learned about accounts, plans, features, interfaces, billing and payments
-GitHub offers multiple account types, plans, subscriptions, GUIs and APIs, with either subscription, license or PAYG billing
+> GitHub offers multiple account types, plans, subscriptions, GUIs and APIs, with either subscription, license or PAYG billing
 
 ## Further reading
 
