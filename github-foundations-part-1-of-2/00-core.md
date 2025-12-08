@@ -82,3 +82,14 @@ Git flow assumes merge commits, so rebase or squash merges may interfere with br
 *Watch* at top of repo page to configure repo notification
 
 GHEC offers 99.9% uptime service agreement
+
+Public repos are **free**
+
+**Billing (private repos)**
+- Actions: runner rates by the minute
+- Packages: storage and transfer rates
+- Enterprise: per active user
+- GHAS: per active committer
+- Copilot: per user
+
+
