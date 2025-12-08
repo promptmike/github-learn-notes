@@ -92,4 +92,6 @@ Public repos are **free**
 - GHAS: per active committer
 - Copilot: per user
 
+GitHub code-scanning supports Static Analysis Results Interchange Format (SARIF) version 2.1.0
 
+The maximum code-scanning results upload is 5,000 results totalling 10 MB in a gzipped SARIF file
