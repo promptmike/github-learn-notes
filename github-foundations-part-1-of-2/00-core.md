@@ -124,7 +124,8 @@ Scanning the merge commit is more accurate than scanning the head, so scan on PR
 - `/tests`      for selection or class
 - `/comment`    to code snippet
 
-### Command Palette example
+### VS Code Command Palette examples
 
-1. `Ctrl + Shift + P` to open Command Pallete
-2. `Copilot: Generate Unit Tests`
+- `Copilot: Generate Unit Tests` generate unit tests
+- `Developer: Open Log File` get VS Code logs
+- `Diagnostics` > `GitHub Copilot: Collect Diagnostics` troubleshoot connectivity
