@@ -1,5 +1,8 @@
 # Summary
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 Code scanning works with GitHub's CodeQL, or with third-party tools, allowing you to schedule and trigger scans to keep your code base safe
 > Code scanning is very useful, because it keeps alerts in a central location you can easily follow, while also reducing the need for manual checks that are slower and more error prone
 
