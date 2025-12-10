@@ -55,7 +55,7 @@ Your work is saved to a virtual machine, but to keep it after deleting the Codes
 You can open your active or stopped Codespaces from GitHub.com, GitHub CLI, Visual Studio Code or JetBrains
 > Codespaces are prebuildable, configurable, repeatable, persistent container environments that save your work to a virtual machine and can be accessed from IDE, CLI or the Web
 
-To resume and existing Codespace, go to the repo, select the `,` key and select *Resume this Codespace*, or select from [GitHub Codespaces](https://github.com/codespaces) on the Web
+To resume an existing Codespace, go to the repo, select the `,` key and select *Resume this Codespace*, or select from [GitHub Codespaces](https://github.com/codespaces) on the Web
 > Codespaces are prebuildable, configurable, repeatable, restartable, persistent environments that save your work to a virtual machine
 
 ### Timeouts for a Codespace
