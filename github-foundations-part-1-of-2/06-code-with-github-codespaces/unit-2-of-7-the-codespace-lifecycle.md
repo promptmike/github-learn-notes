@@ -90,7 +90,7 @@ You can stop or restart your Codespace if you encounter an error or unexpected b
 You can rebuild your Codespace to implement changes to the dev container, and cache images will speed up this process
 > Codespaces are prebuildable, rebuildable, configurable, reusable, persistent environments running in containers on VMs
 
-When you rebuild the container, changes inside the `/workspaces` directory are preserved, when changes outside `workspaces` are cleared
+When you rebuild the container, changes inside the `/workspaces` directory are preserved, while changes outside `workspaces` are cleared
 > Codespaces are prebuildable, rebuildable, configurable, reusable, persistent environments running in containers on VMs that preserve everything in `/workspaces`
 
 ## Delete a Codespace
