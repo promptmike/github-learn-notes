@@ -98,7 +98,7 @@ When you rebuild the container, changes inside the `/workspaces` directory are p
 After you push changes to a remote branch it is safe to delete the Codespace
 > Codespaces are prebuildable, rebuildable, configurable, reusable environments with persistent storage on VMs that can push to remote branches
 
-If you try to delete a Codespace with unpushed commites you will be notified, so you can decide to push changes, export to a new branch or delete the changes along with the Codespace
+If you try to delete a Codespace with unpushed commits you will be notified, so you can decide to push changes, export to a new branch or delete the changes along with the Codespace
 > Codespaces are prebuildable, rebuildable, configurabe, reusable environments with persistent storage on VMs that can push to remote branches or even export to a new branch
 
 Stopped Codespaces are deleted after 30 days of inactivity by default, but this can be reconfigured
