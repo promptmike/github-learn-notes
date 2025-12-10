@@ -129,3 +129,11 @@ Scanning the merge commit is more accurate than scanning the head, so scan on PR
 - `Copilot: Generate Unit Tests` generate unit tests
 - `Developer: Open Log File` get VS Code logs
 - `Diagnostics` > `GitHub Copilot: Collect Diagnostics` troubleshoot connectivity
+
+## Codespaces
+
+Codespaces are customisable, repeatable and persistent, retaining changes when stopped
+
+Changes are saved locally even when disconnected
+
+When the container is rebuilt, only the changes in `/workspaces` are preserved
