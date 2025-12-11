@@ -163,4 +163,42 @@ Hover on checklist item to convert to sub-issue
 
 There is a built-in workflow for projects, but you can get more using GraphQL or even build and run your own workflow from scratch with Actions
 
+## GitHub-flavoured Markdown
 
+Precede with `\` to escape characters
+
+Precede name with `@` for mention
+
+### Cross links
+
+#### Issue or PR
+
+| Reference Type | Raw Reference | Short Link |
+| -------------- | ------------- | ---------- |
+| Issue or pull request URL | `https://github.com/desktop/desktop/pull/3602` | `#3602` |
+| `#` and issue or pull request number | `#3602` | `#3602` |
+| `GH-` and issue or pull request number | `GH-3602` | `GH-3602` |
+| `Username/Repository#` and issue or pull request number | `desktop/desktop#3602` | `deskktop/desktop#3602` |
+
+#### Commits
+
+| Reference Type | Raw Reference | Short Link |
+| -------------- | ------------- | ---------- |
+| Commit URL | `https://github.com/desktop/desktop/commit/` |  |
+| `8304e9c271a5e5ab4fda797304cd7bcca7158c87` | `8304e9c` | |
+| SHA | 8304e9c271a5e5ab4fda797304cd7bcca7158c87 | 8304e9c |
+| User@SHA | desktop@8304e9c271a5e5ab4fda797304cd7bcca7158c87 | desktop@8304e9c |
+| Username/Repository@SHA | desktop/desktop@8304e9c271a5e5ab4fda797304cd7bcca7158c87 | desktop/desktop@8304e9c |
+
+#### Slash commands
+
+**Use these in descriptions and comment fields**
+
+| Command | Description |
+| ------- | ----------- |
+| `/code` | Code block with your choice of language |
+| `/details` | Collapsible detail area |
+| `/saved-replies` | Insert saved reply from your account. Use `%cursor%` to place the cursor. |
+| `/table` | Table with your choice of columns and rows |
+| `/tasklist` | Insert tasklist in *issue description* |
+| `/template` | Choose a template to insert |
