@@ -44,7 +44,7 @@ We will learn how to create a project, set name, description and README, and add
 ## Add issues and pull requests to your Project
 
 The ability to add issues and pull requests makes the new Projects very powerful
-> Projects is a powerful set of tools for organisations to creat, plan and track projects with intuitive UI, even adding specific issues and pull requests
+> Projects is a powerful set of tools for organisations to create, plan and track projects with intuitive UI, even adding specific issues and pull requests
 
 ### Add an existing issue and pull request
 
