@@ -137,3 +137,5 @@ Codespaces are customisable, repeatable and persistent, retaining changes when s
 Changes are saved locally even when disconnected
 
 When the container is rebuilt, only the changes in `/workspaces` are preserved
+
+You can customise a codespace from a dotfile or GitHub settings and extend it with IDE plugins
