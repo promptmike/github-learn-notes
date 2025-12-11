@@ -104,6 +104,10 @@ You can make ordered list items with numbers followed by stops `1.` and unordere
 - Second
 - Third
 ```
+- First
+  - Nested
+- Second
+- Third
 
 ## Build tables
 
