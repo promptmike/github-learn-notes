@@ -71,7 +71,7 @@ Headings are preceded by a number hash `#` characters equal to the heading's lev
 
 ## Link to images and sites
 
-Links have the syntax [Name](URL) and images have ![Name](URL)
+Links have the syntax `[Name](URL)` and images have `![Name](URL)`
 > Markdown is a lightweight format that supports italics, bold, escapes, links, images and a hierarchy of headings
 
 **Example**
