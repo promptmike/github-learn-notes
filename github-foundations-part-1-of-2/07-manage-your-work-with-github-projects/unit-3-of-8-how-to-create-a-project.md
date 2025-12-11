@@ -1,13 +1,16 @@
 # How to create a project
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 GitHub Projects offers flexible views such as tables, boards and timelines to help you organise your work
-GitHub Projects is a powerful planning tool
+> GitHub Projects is a powerful planning tool
 
 Projects has built-in tools to organise, prioritise and track a phase of the development lifecycle from a single place
-GitHub Projects is a powerful planning tool with intuitive UI
+> GitHub Projects is a powerful planning tool with intuitive UI
 
 We will learn how to create a project, set name, description and README, and add issues and pull requests
-GitHub Projects is a powerful planning tool with intuitive UI for planning and tracking projects in real-time
+> GitHub Projects is a powerful planning tool with intuitive UI for planning and tracking projects in real-time
 
 ## Creating an organization-owned Project
 
@@ -20,7 +23,7 @@ GitHub Projects is a powerful planning tool with intuitive UI for planning and t
 5. Choose template or from scratch
 6. *Create project*
 
-GitHub Projects is a powerful planning tool for organisations to create, plan and track projects with an intuitive UI
+> GitHub Projects is a powerful planning tool for organisations to create, plan and track projects with an intuitive UI
 
 💡== You can also create a personal Project by selecting your profile photo and navigating to Your projects, then clicking New project.==
 
@@ -36,12 +39,12 @@ GitHub Projects is a powerful planning tool for organisations to create, plan an
 4. Enter a few words in the *Short description* field
 5. Explain the goals of the project in README
 
-Projects allows organisations to create, plan and track projects in real-time with intuitive UI
+> Projects allows organisations to create, plan and track projects in real-time with intuitive UI
 
 ## Add issues and pull requests to your Project
 
 The ability to add issues and pull requests makes the new Projects very powerful
-Projects is a powerful set of tools for organisations to creat, plan and track projects with intuitive UI, even adding specific issues and pull requests
+> Projects is a powerful set of tools for organisations to creat, plan and track projects with intuitive UI, even adding specific issues and pull requests
 
 ### Add an existing issue and pull request
 
@@ -51,7 +54,7 @@ Projects is a powerful set of tools for organisations to creat, plan and track p
 2. Place cursor in bottom row of project (next to `+`)
 3. Press *Enter*
 
-Projects allows you to create projects and add issues and pull requests to it to track work across an organisation
+> Projects allows you to create projects and add issues and pull requests to it to track work across an organisation
 
 ### Search for an existing issue and pull request
 
@@ -62,7 +65,7 @@ Projects allows you to create projects and add issues and pull requests to it to
 3. Start typing the name of the issue or pull request
 4. Select the issue or pull request
 
-Projects allows you to create projects, add issues and pull requests to them, and search for what you added
+> Projects allows you to create projects, add issues and pull requests to them, and search for what you added
 
 ### Bulk add issues and pull requests
 
@@ -74,10 +77,12 @@ Projects allows you to create projects, add issues and pull requests to them, an
 4. Select issues and pull requests to include
 5. Select *Add selected items* in bottom-right
 
+> Projects allows you to create projects, search them, add items or even bulk add
+
 ## Project workflows
 
 Projects supports default workflows to automatically add issues and pull requests with an initial status
-Projects is a set of powerful tools to create projects and add items, either manually or with default workflows, then search for items and visualise data
+> Projects is a set of powerful tools to create projects and add items, either manually or with default workflows, then search for items and visualise data
 
 1. Open project
 2. Select `...` menu > *Workflows*
@@ -85,21 +90,21 @@ Projects is a set of powerful tools to create projects and add items, either man
 4. Set values
 5. Select *Save and turn on workflow*
 
-Projects is a powerful set of tools to create projects, search for items, visualise data, and add items manually or with automated default workflows
+> Projects is a powerful set of tools to create projects, search for items, visualise data, and add items manually or with automated default workflows
 
 ## Convert checklist items into sub-issues
 
 From February 2025, Projects has supported turning checklist items into sub-issues to break tasks into smaller work items for easy tracking
-Projects allows you to create projects, search for items, visualise data, break issues into sub-issues, and add items manually or with default workflows
+> Projects allows you to create projects, search for items, visualise data, break issues into sub-issues, and add items manually or with default workflows
 
 1. Create or open issue containing checklist
 2. Hover on a checklist item
 3. Select `...` menu
 4. Select *Convert to sub-issue*
 
-Projects is a powerful tool set for organisations to create and track projects, break issues into managable sub-issues, and automate with default workflows
+> Projects is a powerful tool set for organisations to create and track projects, break issues into managable sub-issues, and automate with default workflows
 
 Sub-issues are linked, appear in Projects and have their own status, metadata and tracking, replacing the less powerful tasklist block feature that was deprecated on 30th April 2025
-GitHub Projects is a powerful toolset for organisations to create, track and visualise projects, manage tasks with linked sub-issues, and automate item inclusion with default workflows
+> GitHub Projects is a powerful toolset for organisations to create, track and visualise projects, manage tasks with linked sub-issues, and automate item inclusion with default workflows
 
 
