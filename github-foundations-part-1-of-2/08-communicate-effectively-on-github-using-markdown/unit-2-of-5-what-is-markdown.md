@@ -60,7 +60,7 @@ To use an asterisk as a character, precede it with an escape character (in GFM t
 
 ## Declare headings
 
-Headings are preceded by a number hash `#` characters equal to the heading's level in the hierarchy (`#` to `######` just like HTML has `<h1>` to `<h6>i`)
+Headings are preceded by a number hash `#` characters equal to the heading's level in the hierarchy (`#` to `######` just like HTML has `<h1>` to `<h6>`)
 > Markdown is a lightweight format that supports italics, bold, escapes and a hierarchy of headings
 
 **Example**
