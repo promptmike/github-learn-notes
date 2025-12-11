@@ -143,3 +143,14 @@ You can customise a codespace from a dotfile or GitHub settings and extend it wi
 Codespaces have compute while GitHub.dev is only an editor
 
 From GitHub.dev you can commit changes, then select *Continue working on...* to continue in a Codespace
+
+## Projects
+
+|                   | Projects                             | Projects (Classic) |
+| ----------------- | ------------------------------------ | ------------------ |
+| Tables and Boards | Boards, Lists, Timeline              | Boards             |
+| Data              | Sort, rank and group by custom field | Columns and Cards  |
+| Insights          | Create visual charts                 | Progress bar       |
+| Automation        | GraphQL, Actions and Column presets  | Column presets     |
+
+
