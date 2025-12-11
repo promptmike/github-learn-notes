@@ -139,3 +139,7 @@ Changes are saved locally even when disconnected
 When the container is rebuilt, only the changes in `/workspaces` are preserved
 
 You can customise a codespace from a dotfile or GitHub settings and extend it with IDE plugins
+
+Codespaces have compute while GitHub.dev is only an editor
+
+From GitHub.dev you can commit changes, then select *Continue working on...* to continue in a Codespace
