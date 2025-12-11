@@ -11,6 +11,6 @@ We have learned about GitHub Projects
 - Automate and organise
 - Use layouts such as boards, tables and timelines
 - Automate with default workflows
-- Convert checklist itmes to sub-issues
+- Convert checklist items to sub-issues
 
 > GitHub Projects is a powerful and improved tool for organising, automating and gaining insights on projects at scale
