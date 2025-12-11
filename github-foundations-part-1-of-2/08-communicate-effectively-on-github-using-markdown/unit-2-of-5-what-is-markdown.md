@@ -82,7 +82,7 @@ Links have the syntax `[Name](URL)` and images have `![Name](URL)`
 ```markdown
 [Link to Microsoft Training](/training)
 ```
-[Link to Microsoft Training](/training)
+[Link to Microsoft Training](https://learn.microsoft.com/en-us/training/)
 
 ## Make lists
 
