@@ -160,14 +160,14 @@ Fenced code blocks are wrapped in triple backticks
 
 **Example**
 ```
-```
+```markdown
 var first = 1;
 var second = 2;
 var sum = first + second;
 ```
 ```
 
-```
+```markdown
 var first = 1;
 var second = 2;
 var sum = first + second;
