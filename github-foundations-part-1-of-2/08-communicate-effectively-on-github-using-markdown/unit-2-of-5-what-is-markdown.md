@@ -170,14 +170,6 @@ GFM adds language specification to Markdown - you can just type the language aft
 
 
 **Example**
-```markdown
-```javascript
-var first = 1;
-var second = 2;
-var sum = first + second;
-```
-```
-
 ```javascript
 var first = 1;
 var second = 2;
