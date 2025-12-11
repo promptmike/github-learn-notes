@@ -60,29 +60,29 @@ To use an asterisk as a character, precede it with an escape character (in GFM t
 
 ## Declare headings
 
-Headings are preceded by a number hash `#` characters equal to the heading's level in the hierarchy (`#` to `######` just like HTML has `<h1>` to `<h6>i`)
+Headings are preceded by a number hash `#` characters equal to the heading's level in the hierarchy (`#` to `######` just like HTML has `<h1>` to `<h6>`)
 > Markdown is a lightweight format that supports italics, bold, escapes and a hierarchy of headings
 
 **Example**
 ```markdown
-###### This is H3 text
+###### This is H6 text
 ```
-###### This is H3 text
+###### This is H6 text
 
 ## Link to images and sites
 
-Links have the syntax [Name](URL) and images have ![Name](URL)
+Links have the syntax `[Name](URL)` and images have `![Name](URL)`
 > Markdown is a lightweight format that supports italics, bold, escapes, links, images and a hierarchy of headings
 
 **Example**
 ```markdown
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 ```
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+![Link an image.](https://learn.microsoft.com/en-us/training/azure-devops/shared/media/mara.png)
 ```markdown
 [Link to Microsoft Training](/training)
 ```
-[Link to Microsoft Training](/training)
+[Link to Microsoft Training](https://learn.microsoft.com/en-us/training/)
 
 ## Make lists
 
@@ -104,6 +104,10 @@ You can make ordered list items with numbers followed by stops `1.` and unordere
 - Second
 - Third
 ```
+- First
+  - Nested
+- Second
+- Third
 
 ## Build tables
 
@@ -160,14 +164,6 @@ Fenced code blocks are wrapped in triple backticks
 
 **Example**
 ```markdown
-```markdown
-var first = 1;
-var second = 2;
-var sum = first + second;
-```
-```
-
-```markdown
 var first = 1;
 var second = 2;
 var sum = first + second;
@@ -178,14 +174,6 @@ GFM adds language specification to Markdown - you can just type the language aft
 
 
 **Example**
-```markdown
-```javascript
-var first = 1;
-var second = 2;
-var sum = first + second;
-```
-```
-
 ```javascript
 var first = 1;
 var second = 2;
