@@ -78,7 +78,7 @@ Links have the syntax `[Name](URL)` and images have `![Name](URL)`
 ```markdown
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 ```
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+![Link an image.](https://learn.microsoft.com/en-us/training/azure-devops/shared/media/mara.png)
 ```markdown
 [Link to Microsoft Training](/training)
 ```
