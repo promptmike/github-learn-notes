@@ -160,3 +160,7 @@ Bottom `+` field to add or bulk add items
 `#<repo-name>` to search for items in repo
 
 Hover on checklist item to convert to sub-issue
+
+There is a built-in workflow for projects, but you can get more using GraphQL or even build and run your own workflow from scratch with Actions
+
+
