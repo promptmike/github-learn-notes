@@ -65,9 +65,9 @@ Headings are preceded by a number hash `#` characters equal to the heading's lev
 
 **Example**
 ```markdown
-###### This is H3 text
+###### This is H6 text
 ```
-###### This is H3 text
+###### This is H6 text
 
 ## Link to images and sites
 
