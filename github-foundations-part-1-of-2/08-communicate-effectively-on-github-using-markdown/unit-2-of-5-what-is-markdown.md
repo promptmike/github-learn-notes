@@ -159,15 +159,15 @@ Fenced code blocks are wrapped in triple backticks
 > Markdown offers a light syntax for code blocks and most HTML formatting, and also supports inline HTML
 
 **Example**
-```markdown
-```markdown
+```
+```
 var first = 1;
 var second = 2;
 var sum = first + second;
 ```
 ```
 
-```markdown
+```
 var first = 1;
 var second = 2;
 var sum = first + second;
