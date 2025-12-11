@@ -4,7 +4,7 @@
 > The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
 
 Some features of Projects are different to Projects Classic
-> Projects is and improved product to replace Projects Classic
+> Projects is an improved product to replace Projects Classic
 
 ## Projects vs Projects (Classic)
 
