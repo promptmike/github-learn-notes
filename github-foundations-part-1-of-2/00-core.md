@@ -153,4 +153,10 @@ From GitHub.dev you can commit changes, then select *Continue working on...* to 
 | Insights          | Create visual charts                 | Progress bar       |
 | Automation        | GraphQL, Actions and Column presets  | Column presets     |
 
+Top-right `...` menu to create projects and add workflows to them
 
+Bottom `+` field to add or bulk add items
+
+`#<repo-name>` to search for items in repo
+
+Hover on checklist item to convert to sub-issue
