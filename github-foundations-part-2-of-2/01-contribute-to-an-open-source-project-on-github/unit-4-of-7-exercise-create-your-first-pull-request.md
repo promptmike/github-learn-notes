@@ -1,5 +1,8 @@
 # Exercise - Create your first pull request
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We will learn how to make a PR with or without guidance
 > Some projects offer contributing guidance and some don't
 
