@@ -7,7 +7,7 @@ We can help open-source projects by contributing to the repo and conducting code
 > Open-source software relies on the community to develop and maintain it
 
 You may wish to contribute to projects whose work you have used before
-> Software is better when everyone shares (yes I do see the irony of being taught this in a Microsoft course)
+> Software is better when everyone shares
 
 If you never contributed before, you'll need to learn how to do it
 > Open-source software relies on contributions from the community, which you can learn how to make
