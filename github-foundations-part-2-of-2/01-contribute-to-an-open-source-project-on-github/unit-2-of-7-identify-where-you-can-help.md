@@ -7,7 +7,7 @@ We will learn how to use issues and tags to contribute to open-source projects
 > Finding open-source projects to contribute to is important for skill development
 
 Open-source software can be viewed, shared and used by anyone
-> Sharing code makes software more secure and reliable (oh the irony that this is a Microsoft course)
+> Sharing code makes software more secure and reliable
 
 Contributing can be scary at first, but there is something for everyone
 > Open-source projects need a variety of contributions from the beginner level to the expert level
