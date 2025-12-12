@@ -24,3 +24,22 @@ Check for additional communication channels (e.g. and IRC)
     - Use labels
     - Link issues that may be closed by your PR
 - Remember to set notifications for the updates you want
+
+**Inclusive Verbs**
+
+Important for accessibility. For example, a user with a screen reader *Selects*, but does not *Click* or *Swipe*. You should therefore only say *Click* when you are specifically refering to mouse input, not as a general term for selecting things.
+
+- Open
+- Close
+- Leave
+- Go to
+- Select
+- Select and hold
+- `>`
+- Clear
+- Choose
+- Switch, turn on, turn off
+- Enter
+- Move
+- Move through
+- Zoom, zoom in, zoom out
