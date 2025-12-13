@@ -43,3 +43,14 @@ Important for accessibility. For example, a user with a screen reader *Selects*,
 - Move
 - Move through
 - Zoom, zoom in, zoom out
+
+# Community
+
+Use *Insights* or comments sections in a repo to find other active contributors
+
+**Sharing Solutions**
+- Library
+- Mirror project
+- Action or Workflow
+
+
