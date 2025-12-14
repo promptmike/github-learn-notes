@@ -7,7 +7,7 @@ Use [GitHub Search](https://github.com/search) to find projects to contribute to
 
 Read the docs first - especially README, LICENSE, CONTRIBUTING AND CODE\_OF\_CONDUCT and check labels for help needed
 
-Check for additional communication channels (e.g. and IRC)
+Check for additional communication channels (e.g. an IRC)
 
 **PR best practices**
 - Be consise
