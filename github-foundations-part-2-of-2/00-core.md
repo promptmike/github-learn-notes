@@ -53,4 +53,27 @@ Use *Insights* or comments sections in a repo to find other active contributors
 - Mirror project
 - Action or Workflow
 
+# InnerSource
 
+InnerSource software is a hybrid between Open-Source and closed source code that shares source code within a select group (e.g. organisation)
+
+GitHub offers Internal repos for Enterprise customers to benefit from InnerSource
+
+| Level    | Recommended Use                         |
+| -------- | --------------------------------------- |
+| Read     | Non-code contributors                   |
+| Triage   | Manage Issues and Pull Requests         |
+| Write    | Active contributors                     |
+| Maintain | Project Managers                        |
+| Admin    | Full access including sensitive actions |
+
+GitHub looks for README in the following order:
+- `.github` directory
+- root directory
+- `docs` directory
+
+Use `CONTRIBUTING.md` in root, `/docs` or `/.github` - GitHub presents a link to it when users submit Issues or Pull Requests
+
+Add a `CODEOWNERS.md` file to define who is responsible for reviewing code
+
+Issue templates go in `/.github/ISSUE_TEMPLATE.md` and PR templates go in `/.github/PULL_REQUEST_TEMPLATE.md`
