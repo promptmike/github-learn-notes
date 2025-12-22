@@ -1,5 +1,8 @@
 # Summary
 
+> 📘 Note: These notes follow a two-line progressive summary method.  
+> The apparent repetition is intentional — each line consolidates previous material to reinforce recall.
+
 We learned how to build an InnerSource project on GitHub with proper discoverability, guidance and maintenance
 > Make InnerSource projects discoverable within your organisation, provide guidance in README, CONTRIBUTING and templates, and provide thoughtful maintenance
 
