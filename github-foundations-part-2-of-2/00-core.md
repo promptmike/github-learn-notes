@@ -1,7 +1,7 @@
 # Core
 
-> 🧠 This file contains the facts that must be rote-memorised
-> It is kept deliberately terse for ease of daily review
+> 🧠 This file contains the facts that must be rote-memorised.
+> It is kept deliberately terse for ease of daily review.
 
 Use [GitHub Search](https://github.com/search) to find projects to contribute to
 
