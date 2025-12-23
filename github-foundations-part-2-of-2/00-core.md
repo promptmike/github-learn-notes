@@ -44,7 +44,7 @@ Important for accessibility. For example, a user with a screen reader *Selects*,
 - Move through
 - Zoom, zoom in, zoom out
 
-# Community
+## Community
 
 Use *Insights* or comments sections in a repo to find other active contributors
 
@@ -53,7 +53,7 @@ Use *Insights* or comments sections in a repo to find other active contributors
 - Mirror project
 - Action or Workflow
 
-# InnerSource
+## InnerSource
 
 InnerSource software is a hybrid between Open-Source and closed source code that shares source code within a select group (e.g. organisation)
 
@@ -77,3 +77,19 @@ Use `CONTRIBUTING.md` in root, `/docs` or `/.github` - GitHub presents a link to
 Add a `CODEOWNERS.md` file to define who is responsible for reviewing code
 
 Issue templates go in `/.github/ISSUE_TEMPLATE.md` and PR templates go in `/.github/PULL_REQUEST_TEMPLATE.md`
+
+## Secure Repo
+
+*Shift Left* - implement security practices earlier in the development cycle
+
+Add a `SECURITY.md` file to inform contributors of security policy
+
+Open *Security Advisories* to privately discuss and fix vulnerabilities, then publish them to the GitHub CVE list
+
+Keep sensitive data out of the repo with `.gitignore` files at every level required
+
+Set *Branch Protection* rules to enforce workflows
+
+Configure *Required Reviewers* for PRs
+
+Add `CODEOWNERS` in root, `docs` or `.github`
